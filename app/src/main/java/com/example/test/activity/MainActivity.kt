@@ -41,6 +41,10 @@ class MainActivity : AppCompatActivity() {
                     return@OnNavigationItemSelectedListener true
                 }
 
+
+
+
+
             }
 //            if (selectedFragment != null){
 //                supportFragmentManager.beginTransaction().replace(
