@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:title="@string/trang_chu"
+        android:icon="@drawable/ic_home_selected_btn_nvg"/>
+    <item
+        android:id="@+id/item2"
+        android:title="@string/tinh_toan"
+        android:icon="@drawable/ic_calculate_selected_btn_nvg"/>
+    <item
+        android:id="@+id/item3"
+        android:title="@string/yeu_cau_vay"
+        android:icon="@drawable/ic_loan_selected_btn_nvg"/>
+    <item
+        android:id="@+id/item4"
+        android:title="@string/khac"
+        android:icon="@drawable/ic_other_selected_btn_nvg"/>
+</menu>

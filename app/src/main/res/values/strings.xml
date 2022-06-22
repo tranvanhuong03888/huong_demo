@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">test</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tinh_toan">Tính toán</string>
+    <string name="trang_chu">Trang chủ</string>
+    <string name="yeu_cau_vay">Yêu cầu vay</string>
+    <string name="khac">Khác</string>
+    <string name="sum_hoa_hong_thang_3">Tổng hoa hồng tháng 3</string>
+    <string name="d_0">0 đ</string>
+    <string name="giai_ngan">Giải ngân</string>
+    <string name="tong_tien_giai_ngan">Tổng số tiền giải ngân</string>
+    <string name="tong_yeu_cau_vay">Tổng yêu cầu vay</string>
+    <string name="xin_chao_name">Xin chào, Huyền</string>
+    <string name="xem_theo">Xem theo</string>
+</resources>
